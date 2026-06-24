@@ -1,0 +1,4 @@
+Asset,Price,Signal,Conviction,Driver
+S&P 500,683.3900146484375,NEUTRAL,1/3,Mode: RISK OFF. HEADWIND: Fed draining liquidity (-).
+Bitcoin,86084.5390625,SELL,0/3,"Sensitive to Liquidity (-34,615M). Trend: RISK OFF"
+Gold,4264.0,SELL,0/3,Real Rates: 2.51%. Safe Haven demand: Low.
